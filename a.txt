@@ -1,0 +1,2 @@
+this is the first file created for git demo
+entering the 2nd line manually in the notepad
